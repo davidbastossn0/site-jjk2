@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(255, 255, 255) ;
+}
+
+.jujutsu {
+    width: 38%;
+    background-color: white;
+    
+}
+
+.cabecalho {
+text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.text1 {
+    color: white;
+    font-size:large 
+}
